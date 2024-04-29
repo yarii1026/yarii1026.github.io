@@ -1,0 +1,58 @@
+@charset "utf-8";
+body {
+    background-color: #FBE7F9;
+}
+.pp_footer {
+    background-color: #5A003A;
+    padding: 10px;
+    color: #FBE7F9;
+}
+.nav-style {
+    background-color: #B53B8B;
+    color: #F8CBF2;
+}
+.a-style {
+    color: hsla(321,51%,47%,1.00);
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #EBC562;
+}
+
+
+.btn-style {
+    background-color: #EBC04D;
+    color: #B53B8B;
+    font-weight: bold;
+}
+.h2-style {
+    color: hsla(321,51%,47%,1.00);
+}
+
+
+h5 {
+    color: #EBC04D;
+}
+.carousel-item .carousel-caption h5 {
+    background-color: hsla(0,0%,0%,0.55);
+    color: hsla(44,80%,61%,1.00);
+}
+
+.card.col-md-4.col-xl-12 .card-body .card-title {
+    color: #B53B8B;
+}
+.button {
+    background-color: hsla(43,77%,65%,1.00);
+    color: hsla(321,100%,18%,1.00);
+    font-size: medium;
+}
+.form-style  {
+    color: hsla(321,51%,47%,1.00);
+    font-variant: normal;
+    font-weight: bold;
+}
+.input-style {
+    background-color: hsla(62,83%,82%,1.00);
+    color: hsla(321,100%,18%,1.00);
+}
